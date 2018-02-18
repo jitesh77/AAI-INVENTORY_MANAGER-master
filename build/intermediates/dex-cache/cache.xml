@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\95d31dc1328650d338099064178de24c6f44a3da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_affd9c68bd088b0eced4f5bf22152eda5b3f97e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\bad39f02f2b9319165c0c0f1273e63f8744db387\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_577e64f4c1f50e5d1053653744cd8afea524b314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\cba48fe232b203670ba1d151e9e7730bc34a2261\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e7ad52dee3afb4638e0640efa7e2c3fa57644e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_bd03509e1069dfa698d6b4ed893a90e98be64ce9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_0855a52949236dd93a9acbb24232dc7b824c7e33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\4fc495b4c40cdb45bf5371fc65d6ba72cb2e3648\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bbda7801fc58136d1628ecd8827d9a702594da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\74f7bd9ba462d465adc9db1be3aa0dbb4939dfeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35e4ca7fb192b6fd85a3b3a97a0458da207def66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_020baeffa31c096bc991f1b0173249f0e39bc2e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\f0c091e9a28549d425b622b5b6a9dd4bb16571fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bce43aa8d81c3b171fe4e002c88e2fb1306436c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_74c6a2850e6728ac60d5cc7ba2effee758d002e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\9318f74bbf8c07b3acced3f8f9d2fa808eb1a049\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_543f9507fa105d816111eafb8c5da9e5f272a45b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\6d41da803e1e20b9f4a9c1d211a7e8bb0fc7fd91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acc4b36625a9bbf86468ae75b26599cc8a138210\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\652bd159c2355e280e9d9d712ba0878cfe3b5c2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b1201edbd5fece588e0fd56fc8a71eff9c87f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\activeandroid-3.1.0-SNAPSHOT_47440c8de3542c8247ac24e027c2463774320e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\eba01fb58ff0a63197a9481df72065cac0f899af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ad9e29f4361ad9e06ae5e29e1e8d7253b1b0853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_9a517ccd35bb8ea9435caad4f6ca214d97f1a5d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\b28dae5ea33efa938cefc07b0a2ad79dc37e57cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff1169dc817c794fed2ebda7752d11ff3fc6adb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\be3dcbcd9d0d1cb01cf80d191ab7045989aee60f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f7c92e3d406c2edd9c7315a88687e02824f67ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\fe327e40ce7115a01914827425f9723b2a7117ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a23a48be50a0f9408d63305d8d32b3db4ff76aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\84d6480ce8c8b3daefb9211113c4f0bf9f6d7f39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b34338daad4cd5b2ccaccf6feabf8a11e974e63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\c1766a8148624f3615d6e0e7b7bb6548d12fd7ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7785f5c5c630e3990cebe00dae125419c2c32926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\.android\build-cache\e11100ad11f0e66cb590c05d2adf92874e290a40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9759ec416679ee41e21ba2ca53bdf8d14e59be89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e2786be84d29f319aa2a5a60f64cbdc2e41c88c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\android-sdks\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_cdcf37f110445b74552c82a6c89a0b99be6dd537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e748c62b0b2a261499460c479011c9bb4e61e11b">
+        <dex dex="C:\Users\Jitesh\Desktop\AAI-INVENTORY_MANAGER-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_14c226f604bedf91630bf1670921e23cce088c3d\classes.dex" />
+    </item>
+
+</items>
